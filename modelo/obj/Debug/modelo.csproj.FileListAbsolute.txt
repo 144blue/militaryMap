@@ -1,0 +1,6 @@
+C:\Users\DH\source\repos\CombatMap\modelo\bin\Debug\modelo.dll
+C:\Users\DH\source\repos\CombatMap\modelo\bin\Debug\modelo.pdb
+C:\Users\DH\source\repos\CombatMap\modelo\obj\Debug\modelo.csprojAssemblyReference.cache
+C:\Users\DH\source\repos\CombatMap\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\DH\source\repos\CombatMap\modelo\obj\Debug\modelo.dll
+C:\Users\DH\source\repos\CombatMap\modelo\obj\Debug\modelo.pdb
